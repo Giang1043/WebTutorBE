@@ -30,3 +30,4 @@ Success:
 
 Errors use `{ success: false, message, errors? }`. Internal errors are logged
 server-side and never expose stack traces to clients.
+# WebTutorBE
